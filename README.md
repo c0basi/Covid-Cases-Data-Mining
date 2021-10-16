@@ -1,6 +1,6 @@
 ## Covid-Cases-Data-Mining
 
-Project for the CSI 4142 Class
+Project for the CSI 4142 Class<br >
 Project to determine which features cause posititve cases in covid 19
 
 Data is collected from sql tables created in PGAdmin
